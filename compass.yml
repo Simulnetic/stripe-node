@@ -1,0 +1,13 @@
+name: stripe-node
+id: ari:cloud:compass:d926c5b6-8500-4cc0-ae8b-e0b5c4afa665:component/c0bc404a-5512-475b-abf0-d55726924092/a75d9d8d-2f3c-4922-9c38-493109501adf
+description: Node.js library for the Stripe API.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
